@@ -1,6 +1,9 @@
+/* Change the color of <h1> text to red */
 h1 {
     color: red;
- }
+}
+
+/* Change the color of <h2> text to blue */
 h2 {
     color: blue;
- }
+}
